@@ -205,11 +205,6 @@ Hellerside, NC 07956</p>
 			})
 		}
 	</script>
-	<script>
-		let elems = document.querySelectorAll('.server-name');
-		elems.forEach((elem) => {
-			elem.innerHTML = window.location.hostname
-		})
-	</script>
+	
 	</body>
 </html>
